@@ -1,5 +1,5 @@
-#ifndef 2PREGLER_H
-#define 2PREGLER_H
+#ifndef ZWEIPREGLER_H
+#define ZWEIPREGLER_H
 
 /**
  *  @package   2pregler
