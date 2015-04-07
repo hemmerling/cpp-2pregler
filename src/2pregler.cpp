@@ -1323,14 +1323,16 @@ void main()
  do
   {
   clrscr();
-  printf("\n\n\n\n      Hemmerling (R) ZWEIPUNKTREGLER");
+  printf("\n\n\n\n      2pregler - ZWEIPUNKTREGLER");
   printf("\n      ==============================");
+  printf("\n      Copyright 2000-2015 Rolf Hemmerling");
+  printf("\n      Licensed under the Apache License, Version 2.0");
   printf("\n\n\n   1) Eichkurve aufnehmen");
   printf("\n   2) Eichkurve laden");
   printf("\n   3) Eichkurve anzeigen");
   printf("\n   4) Temperatur regeln");
   printf("\n ESC) Programm beenden");
-  printf("\n\n Bitte w„hlen Sie: ");
+  printf("\n\n Bitte waehlen Sie: ");
   MP_datumzeit(60,1,MC_tbeides,MC_tsofort);
   do
    {
